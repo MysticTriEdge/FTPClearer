@@ -1,0 +1,14 @@
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\bin\Debug\FTPClearer.exe.config
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\bin\Debug\FTPClearer.exe
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\bin\Debug\FTPClearer.pdb
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.csprojResolveAssemblyReference.cache
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\MainWindow.g.cs
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\App.g.cs
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer_MarkupCompile.cache
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer_MarkupCompile.lref
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\MainWindow.baml
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.g.resources
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.Properties.Resources.resources
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.csproj.GenerateResource.Cache
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.exe
+c:\users\locala\documents\visual studio 2017\Projects\FTPClearer\FTPClearer\obj\Debug\FTPClearer.pdb

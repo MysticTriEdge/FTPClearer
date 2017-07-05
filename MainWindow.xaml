@@ -1,0 +1,22 @@
+﻿<Window x:Class="FTPClearer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FTPClearer"
+        mc:Ignorable="d"
+        Title="FTPClearer" Height="263.934" Width="383.709">
+    <Grid>
+        <TextBox x:Name="tbFTPAddress" HorizontalAlignment="Left" Height="23" Margin="110,19,0,0" TextWrapping="Wrap" Text="configuratorftp.stg.syzygy.net" VerticalAlignment="Top" Width="238"/>
+        <TextBox x:Name="tbFTPPassword" HorizontalAlignment="Left" Height="23" Margin="110,88,0,0" TextWrapping="Wrap" Text="burr0ws1#" VerticalAlignment="Top" Width="238"/>
+        <Label Content="FTP Address" HorizontalAlignment="Left" Margin="10,16,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="FTP Password" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="249,197,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <RadioButton x:Name="rbWeek" Content="A week and older" HorizontalAlignment="Left" Margin="10,162,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbMonth" Content="A month and older" HorizontalAlignment="Left" Margin="139,162,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <Label Content="Delete files that are:" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="FTP Username" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="tbFTPUsername" HorizontalAlignment="Left" Height="23" Margin="110,53,0,0" TextWrapping="Wrap" Text="configurator" VerticalAlignment="Top" Width="238"/>
+
+    </Grid>
+</Window>
